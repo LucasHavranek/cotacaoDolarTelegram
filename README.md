@@ -1,5 +1,4 @@
-# cotacaoDolarTelegram
-### Notificações via telegram do dólar como parâmetro de verificação
+# Notificações via telegram do dólar como parâmetro de verificação
 
 ### Passo a passo para configurar a notificação no aplicativo Telegram.
 
