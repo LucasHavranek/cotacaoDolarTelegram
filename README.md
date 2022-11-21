@@ -1,7 +1,7 @@
 # cotacaoDolarTelegram
-### Notificações via telegram através do valor do dólar como parâmetro
+### Notificações via telegram do dólar como parâmetro de verificação
 
-### Passo a passo para configurar o valor do dólar desejado para que seja notificado no telegram
+### Passo a passo para configurar a notificação no aplicativo Telegram.
 
 1. Criar e ativar um bot no telegram, mais informações no link a seguir (https://tecnoblog.net/responde/como-criar-um-bot-no-telegram/)
 2. Identificar token do bot e o chat_id onde a notificação deve ser enviada, mais informações no link a seguir (https://weni.ai/blog/como-criar-um-chatbot-para-telegram/)
